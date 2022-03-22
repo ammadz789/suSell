@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242098579814",
+    "project_id": "susell-69e2d",
+    "storage_bucket": "susell-69e2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242098579814:android:a0158d91668c8397b240a7",
+        "android_client_info": {
+          "package_name": "com.example.susell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242098579814-gaisnpee57a9cin7h61dk82crjs285j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT4jOpboGJY8BZ3oYm3YRTuXfhRH8ENfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242098579814-gaisnpee57a9cin7h61dk82crjs285j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
